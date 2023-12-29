@@ -21,6 +21,7 @@
     "react-redux": "^8.0.1"
   },
   "devDependencies": {
+    "@fontsource/roboto": "^5.0.8",
     "@testing-library/dom": "^9.2.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.5",
@@ -35,6 +36,7 @@
     "jsdom": "^21.1.0",
     "prettier": "^2.7.1",
     "prettier-config-nick": "^1.0.2",
+    "sass": "^1.69.6",
     "typescript": "^5.0.2",
     "vite": "^4.0.0",
     "vitest": "^0.30.1"

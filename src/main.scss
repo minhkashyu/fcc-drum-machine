@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Lato', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.text-multi-color {
+  background-image: linear-gradient(to left, violet, indigo, green, blue, orange, red);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@import "bootstrap/scss/bootstrap.scss";
